@@ -73,7 +73,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: All members must participate in Active Directives.
+    subtitle: >-
+      All members must participate if we want to see real impact. Only doing
+      passives may sound like the best route, but real change will only occur
+      when enough of the American people are completing Active Directives
     items:
       - type: FeaturedItem
         title: 500k
