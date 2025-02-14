@@ -73,9 +73,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      The more of us that participate in Active Directives, the more impact we
-      have.
+    subtitle: Participate in Active Directives
     items:
       - type: FeaturedItem
         title: 500k
