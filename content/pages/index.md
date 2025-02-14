@@ -152,7 +152,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get Stickers
+      - label: Protest Info
         altText: ''
         url: /
         showIcon: false
