@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      altText: 'Directive (Active) 1: '
+      altText: ''
       elementId: ''
       type: ImageBlock
       url: /images/abstract-feature2.svg
