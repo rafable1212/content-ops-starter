@@ -87,11 +87,10 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-The one thing that companies and the billionaire class really cares about is financial metrics. 
+The one thing that companies and the billionaire class really cares about is financial metrics.
 
 These are the companies that contribute and donate to the Trump/Elon administration.
 
-It is in our best interest to limit or fully stop contributing to these companies as they contribute to government policies that hurt the American people. 
+It is in our best interest to limit or fully stop contributing to these companies as they contribute to government policies that hurt the American people.
 
-![](/images/img-placeholder.svg)
-
+![](/images/zV56BnFzeui0s0askjaGduwwTT3HGBOmuq8BJxNmgag.png.webp)
