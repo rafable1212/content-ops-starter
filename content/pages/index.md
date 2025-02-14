@@ -2,57 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Participate in Directives and facilitate political and social change.
-      color: text-dark
-      type: TitleBlock
-    subtitle: 'Directives are of two types: Passive and Active.'
-    text: >
-      Active Directives involve physical action. These include participating in
-      protests or spreading information. 
-
-
-      Passive Directives involve inaction or avoidance. Examples are boycotting
-      and refraining from purchasing from certain stores.
-    actions:
-      - label: Visit Directives
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Visit Missions
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      altText: 'Directive (Active) 1: '
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: The Collection
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -170,6 +119,57 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Participate in Directives and facilitate political and social change.
+      color: text-dark
+      type: TitleBlock
+    subtitle: 'Directives are of two types: Passive and Active.'
+    text: >
+      Active Directives involve physical action. These include participating in
+      protests or spreading information. 
+
+
+      Passive Directives involve inaction or avoidance. Examples are boycotting
+      and refraining from purchasing from certain stores.
+    actions:
+      - label: Visit Directives
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: Visit Missions
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      altText: 'Directive (Active) 1: '
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: The Collection
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
