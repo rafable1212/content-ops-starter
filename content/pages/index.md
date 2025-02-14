@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: 'Directive (Active) 1: '
       elementId: ''
       type: ImageBlock
     badge:
