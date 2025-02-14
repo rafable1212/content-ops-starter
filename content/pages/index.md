@@ -171,7 +171,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Get Stickers
         altText: ''
         url: /
         showIcon: false
