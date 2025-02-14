@@ -79,7 +79,7 @@ sections:
       Directives.
     items:
       - type: FeaturedItem
-        title: 'Directive 1:'
+        title: 'Active 1:'
         subtitle: 'Planned Protest: 2/25/25 @ 12 pm'
         text: >+
           Protesting is the main goal of The Collective and the most important.
