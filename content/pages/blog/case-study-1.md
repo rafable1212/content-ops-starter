@@ -91,7 +91,7 @@ The one thing that companies and the billionaire class really cares about are fi
 
 These are the companies that contribute and donate to the Trump/Elon administration.
 
-It is in our best interest to limit or fully stop contributing to these companies as they contribute to government policies that hurt the American people.
+It is in our best interest to limit or fully stop contributing to these companies as they contribute to government policies that hurt the American people. Some avoidance may not be feasible but if we commit everyday to limiting our money away from these companies, we can bring focus back to the needs of the people.
 
 ![](/images/zV56BnFzeui0s0askjaGduwwTT3HGBOmuq8BJxNmgag.png.webp)
 
