@@ -8,7 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Directives are of two types: Passive and Active.'
-    text: ''
+    text: >
+      Active Directives involve physical action. These include participating in
+      protests or spreading information. 
+
+
+      Passive Directives involve inaction or avoidance. Examples are boycotting
+      and refraining from purchasing from certain stores.
     actions:
       - label: Get started
         altText: ''
