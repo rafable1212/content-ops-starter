@@ -80,7 +80,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Directive 1:'
-        subtitle: 'Planned Protests:'
+        subtitle: 'Planned Protest: 2/25/25 @ 12 pm'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
