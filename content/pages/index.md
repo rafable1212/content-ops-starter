@@ -133,10 +133,7 @@ sections:
         type: FeaturedItem
       - title: 'Active 3:'
         subtitle: 'Distribution of Physical Name Cards:'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Post stickers where you frequent for visibility and encourage others to join The Collective.\n\nBe annoying with the stickers. Print the stickers and place multiple in one place if needed.\_\n\n"
         image:
           url: /images/icon1.svg
           altText: Featured icon three
