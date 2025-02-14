@@ -307,7 +307,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Mission and Oath
+      text: Oath
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
