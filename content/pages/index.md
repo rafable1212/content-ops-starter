@@ -685,7 +685,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Join our Newsletter
+      text: Join The Collective and our Newsletter
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
