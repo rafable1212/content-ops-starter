@@ -67,7 +67,7 @@ sections:
           - pr-3
   - type: FeaturedItemsSection
     title:
-      text: Directives (Active)
+      text: Directives
       color: text-dark
       styles:
         self:
