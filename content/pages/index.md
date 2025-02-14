@@ -73,7 +73,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Participate in Active Directives
+    subtitle: All members must participate in Active Directives.
     items:
       - type: FeaturedItem
         title: 500k
