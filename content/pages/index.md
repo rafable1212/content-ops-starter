@@ -38,6 +38,7 @@ sections:
       altText: 'Directive (Active) 1: '
       elementId: ''
       type: ImageBlock
+      url: /images/abstract-feature2.svg
     badge:
       label: The Collection
       color: text-primary
