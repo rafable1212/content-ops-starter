@@ -7,9 +7,7 @@ sections:
       text: Participate in Directives and facilitate political and social change.
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Directives are of two types: Passive and Active. We must all participate
-      in both types to have any actual impact. 
+    subtitle: 'Directives are of two types: Passive and Active.'
     text: ''
     actions:
       - label: Get started
