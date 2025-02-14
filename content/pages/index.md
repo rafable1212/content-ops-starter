@@ -111,7 +111,7 @@ sections:
               borderRadius: x-large
       - title: 'Active 2:'
         subtitle: 'Distribution of Information and Media:'
-        text: "Join the newsletter and review attached media.\_\n\nShare media on your socials (X, FB, Insta) EVERYDAY for visibility and encourage others to share.\n\nThe media in the newsletters are aimed to be quick and direct info. They can info on politicians up for elections and overreach of Elon/Trump.\n\n"
+        text: "Join the newsletter and review attached media.\_\n\nShare media on your socials (X, FB, Insta) EVERYDAY for visibility and encourage others to share. The media in the newsletters are aimed to be \n\nquick and direct info. They can info on politicians up for elections and overreach of Elon/Trump.\n"
         image:
           url: /images/icon2.svg
           altText: Featured icon two
