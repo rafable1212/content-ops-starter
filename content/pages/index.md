@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Participate in Directives and encourage political and social change.
+      text: Participate in "Directives" and encourage political and social change.
       color: text-dark
       type: TitleBlock
     subtitle: >-
