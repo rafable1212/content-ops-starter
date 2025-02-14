@@ -81,21 +81,12 @@ sections:
       - type: FeaturedItem
         title: 'Active 1:'
         subtitle: 'Planned Protest: 2/25/25 @ 12 pm'
-        text: >+
+        text: >
           Protesting is the main goal of The Collective and the most important.
 
 
           Use PTO, Sick Days, lunch time, etc. as necessary to attend. Every
           person is needed for this to work.
-
-
-          Please bring for your protection: face coverings/masks, umbrellas,
-          water, thick jackets/clothing.
-
-
-          We will support each other and everyone is welcome to non-violently
-          protest.
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
