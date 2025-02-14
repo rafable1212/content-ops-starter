@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Mission
+      - label: Visit Missions
         altText: ''
         url: /
         showIcon: true
