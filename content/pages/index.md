@@ -16,7 +16,7 @@ sections:
       Passive Directives involve inaction or avoidance. Examples are boycotting
       and refraining from purchasing from certain stores.
     actions:
-      - label: Get started
+      - label: Visit Directives
         altText: ''
         url: /
         showIcon: false
