@@ -34,6 +34,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       altText: ''
       elementId: ''
