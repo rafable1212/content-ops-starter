@@ -87,7 +87,7 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-The one thing that companies and the billionaire class really cares about is financial metrics.
+The one thing that companies and the billionaire class really cares about are financial metrics.
 
 These are the companies that contribute and donate to the Trump/Elon administration.
 
