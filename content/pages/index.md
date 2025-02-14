@@ -162,7 +162,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: Current Media
         altText: ''
         url: /
         showIcon: false
